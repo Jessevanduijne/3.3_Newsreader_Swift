@@ -1,0 +1,6 @@
+framework module Pods_newsreader_552779 {
+  umbrella header "Pods-newsreader_552779-umbrella.h"
+
+  export *
+  module * { export * }
+}

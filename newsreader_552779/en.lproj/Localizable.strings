@@ -1,0 +1,34 @@
+/*
+ Localizable.strings
+ newsreader_552779
+ 
+ Created by Jesse van Duijne on 14-01-20.
+ Copyright © 2020 Informatica Haarlem. All rights reserved.
+ */
+
+// General:
+"btn_login_or_register" = "Login/Register";
+"btn_logout" = "Log out (%@)";
+"lbl_no_liked_articles" = "You havent't liked any articles yet";
+"lbl_not_logged_in" = "You need to be logged in to see your liked articles";
+
+// AccountController:
+"lbl_msg_enter_credentials" = "Enter username and password";
+"lbl_msg_wrong_credentials" = "Credentials incorrect. Try again or register";
+"lbl_msg_username_already_exists" = "Chosen username already exists. Try logging in";
+"lbl_msg_account_created" = "Account created. Log in to continue";
+"lbl_username" = "Username";
+"lbl_password" = "Password";
+
+"btn_navigate_register_page" = "No account? Register here";
+"btn_navigate_login_page" = "Already have an account? Log in";
+"btn_register" = "Register";
+"btn_login" = "Log in";
+
+"txt_username" = "Username";
+"txt_password" = "Password";
+
+
+
+
+
